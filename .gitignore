@@ -120,6 +120,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+.mle_airflow_venv
 .env
 .venv*
 env/
